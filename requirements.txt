@@ -1,0 +1,12 @@
+jieba==0.42.1
+scikit-learn==1.2.2
+torch==1.13.1+cu116
+transformers==4.27.1
+pandas==1.5.3
+numpy==1.23.5
+pandarallel==1.6.4
+scipy==1.9.3
+wikipedia==1.4.0
+tqdm==4.65.0
+TCSP==0.0.9
+ipython==8.7.0
