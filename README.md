@@ -10,4 +10,7 @@ google雲端連結:https://drive.google.com/drive/folders/1M41aLhRggB2eDUxhtUmL3
 這個連結裡有我在該比賽時保留的最終模型，  
 最後高分上傳記錄採用的模型應該是val_acc=0.5585_model(分數為0.473205)。   
 若有需要可以自行下載，並執行part3最後的部分，  
-分數應該都會落在0.475上下 (這是我們最高分的紀錄)。  
+分數應該都會落在0.475上下 (這是我們最高分的紀錄)。    
+## 版本說明  
+使用的python版本號是python 3.8.13  
+相關套件版本都寫在requirements.txt了。  
