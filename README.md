@@ -1,4 +1,5 @@
 # AICUP-2023-TEAM_3501
+## Rank: 23 out of 301 teams
 ## Description(English version)
 ### Introduction
 This repository wass built for AICUP contest.
